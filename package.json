@@ -1,0 +1,17 @@
+{
+  "name": "grant-scout",
+  "version": "1.0.0",
+  "description": "Daily scout scraping new grants and sending notifications",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "playwright": "^1.60.0"
+  }
+}
