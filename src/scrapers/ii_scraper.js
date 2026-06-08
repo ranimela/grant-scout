@@ -93,6 +93,10 @@ export class InnovationAuthorityScraper extends BaseScraper {
           continue; // Skip cards lacking a title
         }
 
+        if (!name.includes('אקדמיה')) {
+          continue;
+        }
+
         let targetUrl = card.href || '';
         if (targetUrl && !targetUrl.startsWith('http')) {
           targetUrl = new URL(targetUrl, baseUrl).href;
