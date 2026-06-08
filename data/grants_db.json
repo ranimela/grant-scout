@@ -1,166 +1,12 @@
 [
   {
-    "id": "af702b75975ec13edd1d30f39989455d95d6f0930ff590c66e7ee9777adda8c8",
-    "grant_name": "מסלול מתן שוברים לשימוש במעבדות מו״פ או מאגרי מידע (חברות) – קרן המו\"פ",
-    "funding_amount": "N/A",
-    "deadline": "N/A",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/usage-vouchers-rnd-labs/",
-    "discovered_at": "2026-06-08T09:18:37.455Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "330ab8e4f13bf19cbeb5342522b07182a5b3e232f0b6db284195d92a415ff80e",
-    "grant_name": "אתגר תנופה; טכנולוגיות פורצות דרך – מינרלים קריטיים",
-    "funding_amount": "N/A",
-    "deadline": "N/A",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/critical-minerals-challenge/",
-    "discovered_at": "2026-06-08T09:18:37.455Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
     "id": "4358c4a673e3a854bcc12a8244fcecd3e1c1d0ea240b0e2b4208fb68d5b3ec36",
     "grant_name": "מסלול מתן שוברים לשימוש במעבדות מו״פ או מאגרי מידע (אקדמיה) – קרן המו\"פ",
     "funding_amount": "N/A",
     "deadline": "N/A",
     "eligibility_criteria": [],
     "source_url": "https://innovationisrael.org.il/kol_kore/usage-vouchers-rnd-research/",
-    "discovered_at": "2026-06-08T09:18:37.455Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "85059a931e439d0258afbd52c43c2196000dd29d9fbfb6a9fa2674bcf86d11dc",
-    "grant_name": "ויזת חדשנות ליזם טכנולוגי זר",
-    "funding_amount": "N/A",
-    "deadline": "...",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/tech-innovation-visa/",
-    "discovered_at": "2026-06-08T09:18:37.456Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "caf5e17be9376d457188def16f49f12e3505f5d2f7d20882ab83b189db2aa2d9",
-    "grant_name": "מסלול Round A – קרן ההזנק",
-    "funding_amount": "N/A",
-    "deadline": "10/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/rounda/",
-    "discovered_at": "2026-06-08T09:18:37.456Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "87be205c9302e5b4b9acc8f4cf82f093804cf70852fb83f6706099141fda21b0",
-    "grant_name": "מסלול Seed – קרן ההזנק",
-    "funding_amount": "N/A",
-    "deadline": "10/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/seed/",
-    "discovered_at": "2026-06-08T09:18:37.457Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "a6eead182dc978567fe14961dde6e4b611b3a0b93902e59d82aef1e92d9ca0c9",
-    "grant_name": "מסלול מעבדות מו״פ ומאגרי מידע – קרן תשתיות המו\"פ",
-    "funding_amount": "N/A",
-    "deadline": "14/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/rdlabsanddatabasesforindustry/",
-    "discovered_at": "2026-06-08T09:18:37.457Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "cc7ef5bd75094959d062fc45e7c99d4540a0c52857dcfc9e887befcd5ef4d6a6",
-    "grant_name": "קול קורא להגשת תכניות לקידום שוויון מגדרי בהייטקקרן ההון האנושי להייטק",
-    "funding_amount": "N/A",
-    "deadline": "14/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/israeli-hi-tech-gender-equality/",
-    "discovered_at": "2026-06-08T09:18:37.457Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "9853f2f9f09a268633a0ef18f7c40f6222af0c62079f8c8b31723ac5f2c19911",
-    "grant_name": "קול קורא במסגרת שותפות EP PerMed של האיחוד האירופי בתחום רפואה למחלות לב וכלי דם, מחלות מטבוליות ומחלות כליהמסלול מאגדי מחקר יישומי - קרן המחקר היישומי",
-    "funding_amount": "N/A",
-    "deadline": "16/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/eu-for-permed-medical-collaboration/",
-    "discovered_at": "2026-06-08T09:18:37.458Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "cc80b211bc889c3e2a74e3b183bd4fa113b8e601bf7b629bfe9001b7831b5c89",
-    "grant_name": "מסלול רעיונאות – קרן מופ\"ת",
-    "funding_amount": "N/A",
-    "deadline": "18/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/product-discovery-mofet-fund/",
-    "discovered_at": "2026-06-08T09:18:37.458Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "863f46e363ce6b4ede073b9d92daf654d4ed46cb5444d5f1e77138ff3d889e4d",
-    "grant_name": "קול קורא לעידוד השתתפות תאגידים תעשייתיים ישראליים במסלולי מאגדים בתוכנית Horizon Europe (מסלול 37)מסלול שת\"פ בינלאומי - קרן המו\"פ",
-    "funding_amount": "N/A",
-    "deadline": "18/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/horizon-europe-program-cooperation-2026/",
-    "discovered_at": "2026-06-08T09:18:37.458Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "1874b52f89379ee858414d773fb76a971004dc202f40e0fb929bf4ef177cb9f6",
-    "grant_name": "מסלול Pre-Seed – קרן ההזנק",
-    "funding_amount": "N/A",
-    "deadline": "25/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/preseed/",
-    "discovered_at": "2026-06-08T09:18:37.459Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "bea1e1a166caa994f3a636b5a30eb86e5a8b47c27f19f1e25406fe4fbecb0214",
-    "grant_name": "מסלול חממות טכנולוגיות 2020 – קרן החממות הטכנולוגיות",
-    "funding_amount": "N/A",
-    "deadline": "25/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/%d7%97%d7%9e%d7%9e%d7%95%d7%aa-%d7%98%d7%9b%d7%a0%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%95%d7%aa/",
-    "discovered_at": "2026-06-08T09:18:37.459Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "70c69515e611fb56d4600ff514a2f2a71c9b3324a8b86490760c00ac99152721",
-    "grant_name": "מסלול מעבדות לחדשנות טכנולוגית",
-    "funding_amount": "N/A",
-    "deadline": "25/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%9e%d7%a2%d7%91%d7%93%d7%95%d7%aa-%d7%9c%d7%97%d7%93%d7%a9%d7%a0%d7%95%d7%aa-%d7%98%d7%9b%d7%a0%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%aa/",
-    "discovered_at": "2026-06-08T09:18:37.459Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "998cb56f497f22bfd63c698247df53b324e06fdf5e3c187578e65625e641191b",
-    "grant_name": "מסלול תנופה – קרן ההזנק",
-    "funding_amount": "N/A",
-    "deadline": "25/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%aa%d7%a0%d7%95%d7%a4%d7%94-%d7%a7%d7%a8%d7%9f-%d7%94%d7%94%d7%96%d7%a0%d7%a7/",
-    "discovered_at": "2026-06-08T09:18:37.460Z",
+    "discovered_at": "2026-06-08T11:09:26.605Z",
     "status": "notified",
     "is_new": true
   },
@@ -171,29 +17,7 @@
     "deadline": "07/07/2026",
     "eligibility_criteria": [],
     "source_url": "https://innovationisrael.org.il/kol_kore/brainhealth-eu-2026/",
-    "discovered_at": "2026-06-08T09:18:37.460Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "8450eda10e0f6bdbbfb220eb50d9785c881c58b452e2a50021a937030faf8fa3",
-    "grant_name": "מסלול מחקר יישומי בתעשייה – קרן המחקר היישומי",
-    "funding_amount": "N/A",
-    "deadline": "08/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%9e%d7%97%d7%a7%d7%a8-%d7%99%d7%99%d7%a9%d7%95%d7%9e%d7%99-%d7%91%d7%aa%d7%a2%d7%a9%d7%99%d7%99%d7%94-%d7%a7%d7%a8%d7%9f-%d7%94%d7%9e%d7%97%d7%a7%d7%a8-%d7%94%d7%99/",
-    "discovered_at": "2026-06-08T09:18:37.460Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "08293c5cfa68fe6dec277ab80c164225412fa0f4807d8dcd27fc800cae73bd32",
-    "grant_name": "מסלול מאגדי מחקר יישומי – קרן המחקר היישומי",
-    "funding_amount": "N/A",
-    "deadline": "08/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%9e%d7%90%d7%92%d7%93%d7%99-%d7%9e%d7%97%d7%a7%d7%a8-%d7%99%d7%99%d7%a9%d7%95%d7%9e%d7%99-%d7%a7%d7%a8%d7%9f-%d7%94%d7%9e%d7%97%d7%a7%d7%a8-%d7%94%d7%99%d7%99%d7%a9/",
-    "discovered_at": "2026-06-08T09:18:37.460Z",
+    "discovered_at": "2026-06-08T11:09:26.607Z",
     "status": "notified",
     "is_new": true
   },
@@ -204,18 +28,7 @@
     "deadline": "08/07/2026",
     "eligibility_criteria": [],
     "source_url": "https://innovationisrael.org.il/programs/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%9e%d7%97%d7%a7%d7%a8-%d7%99%d7%99%d7%a9%d7%95%d7%9e%d7%99-%d7%91%d7%90%d7%a7%d7%93%d7%9e%d7%99%d7%94-%d7%a7%d7%a8%d7%9f-%d7%94%d7%9e%d7%97%d7%a7%d7%a8-%d7%94%d7%99/",
-    "discovered_at": "2026-06-08T09:18:37.461Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "d1189fa48e0e45f40e630e06f4af9ba8f13a47125ad79d598c95056841fc60d1",
-    "grant_name": "קול קורא להגשת בקשות העברת ומסחור ידע ממכון מחקר זר (דגש על מדינות אסיה ופסיפיק)מסלול מחקר יישומי בתעשייה – קרן המחקר היישומי",
-    "funding_amount": "N/A",
-    "deadline": "08/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/academic-knowledge-transfer/",
-    "discovered_at": "2026-06-08T09:18:37.461Z",
+    "discovered_at": "2026-06-08T11:09:26.607Z",
     "status": "notified",
     "is_new": true
   },
@@ -226,73 +39,7 @@
     "deadline": "08/07/2026",
     "eligibility_criteria": [],
     "source_url": "https://innovationisrael.org.il/kol_kore/usage-vouchers-rnd-research/",
-    "discovered_at": "2026-06-08T09:18:37.461Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "8662aa27b43f72bf668432bc11224b4464928f70fa293435cf351c6fd1593a04",
-    "grant_name": "קול קורא קרן ישראל-קוריאה (KORIL-RDF) למסלול האסטרטגי בתחום ייצור מבוסס בינה מלאכותית (שלב 1)מסלול קרן קוריאה-ישראל",
-    "funding_amount": "N/A",
-    "deadline": "08/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/koril-strategic-2026/",
-    "discovered_at": "2026-06-08T09:18:37.461Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "86e87622344ecf6c3aefc35ef64e2c00634db0b94c976712c94c038980abe265",
-    "grant_name": "קול קורא להקמת תכניות עילית לניהול והובלת חברות דיפטקקרן ההון האנושי להייטק",
-    "funding_amount": "N/A",
-    "deadline": "12/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/leading-deeptech-companies-managment-programs/",
-    "discovered_at": "2026-06-08T09:18:37.461Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "6eb20cd38aaf364ead943c81d721d8a829af74b967258ba8a32f8dd48a554c38",
-    "grant_name": "קול קורא לתוכניות הרצה בתחומי התחבורהמסלול פיילוט משקי - קרן הפיילוטים",
-    "funding_amount": "N/A",
-    "deadline": "16/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/transportation-pilots-2026/",
-    "discovered_at": "2026-06-08T09:18:37.462Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "f42ede97a098ed162033ba8e4b4af942690e5be1eaeb83a422bd7f56b3db75da",
-    "grant_name": "הזמנה להבעת עמדה וקבלת מידע לאיתור תחומים למיזמים \"משני מציאות\" (RFI)",
-    "funding_amount": "N/A",
-    "deadline": "16/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/reality-changing-initiatives-rfi/",
-    "discovered_at": "2026-06-08T09:18:37.462Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "338234882c4dc2edb6e53781bf8a484b107fda78fdd8c6097907badb97b319cd",
-    "grant_name": "מסלול CIP",
-    "funding_amount": "N/A",
-    "deadline": "21/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-cip/",
-    "discovered_at": "2026-06-08T09:18:37.462Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "41b30248cf37bc8de0e1e1508ff3b2e325eb18335323047f25185b61094cc2fb",
-    "grant_name": "קול קורא לשת\"פ של חברות ישראליות עם שותפים בחו\"ל- אסיה, אמריקה ואירופהמסלול שת\"פ בינלאומי - קרן המו\"פ",
-    "funding_amount": "N/A",
-    "deadline": "21/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/international-rd-collaboration-2026/",
-    "discovered_at": "2026-06-08T09:18:37.462Z",
+    "discovered_at": "2026-06-08T11:09:26.608Z",
     "status": "notified",
     "is_new": true
   },
@@ -303,51 +50,7 @@
     "deadline": "27/07/2026",
     "eligibility_criteria": [],
     "source_url": "https://innovationisrael.org.il/programs/applied-research-with-ddrnd/",
-    "discovered_at": "2026-06-08T09:18:37.463Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "e0dcb77bb04e38b824320246fc05069d9042775a2d97c21da4340900832bf22c",
-    "grant_name": "קול קורא לשת\"פ ישראל-סינגפור במסלול מו\"פ ופיילוטיםמסלול קרן ישראל – סינגפור SIIRD",
-    "funding_amount": "N/A",
-    "deadline": "30/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/singapore-israel-siird-rd-pilots-2026/",
-    "discovered_at": "2026-06-08T09:18:37.463Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "8234e2fd02f9e3a4ae391caf56220f227206d10d9177b7520e405de4c0eb10aa",
-    "grant_name": "קול קורא לשת\"פ קרן סינגפור-ישראל (SIIRD) בתחום ערים חכמותמסלול קרן ישראל – סינגפור SIIRD",
-    "funding_amount": "N/A",
-    "deadline": "30/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/siird-strategic-program-2026/",
-    "discovered_at": "2026-06-08T09:18:37.463Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "0ab1cae5f9b8c2dcc0fdb94f2c7e2418de65c92976f479db1def71834d9ec9af",
-    "grant_name": "קול קורא לשת\"פ עם האיחוד האירופי בתחום החקלאות מבוססת הנתונים (AgData)",
-    "funding_amount": "N/A",
-    "deadline": "30/07/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/eu-israel-agtech-partnership/",
-    "discovered_at": "2026-06-08T09:18:37.463Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "2ea8306aa1e5a85f4ffad854e70176cbe08dbd9f0678d0e0b3dcb5d98c0dd337",
-    "grant_name": "קול קורא קרן ישראל-קוריאה (KORIL-RDF) למסלול המו\"פ ולמסלול הפיילוטמסלול קרן ישראל-קוריאה (KORIL-RDF)",
-    "funding_amount": "N/A",
-    "deadline": "05/08/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/koril-rdf-2026/",
-    "discovered_at": "2026-06-08T09:18:37.464Z",
+    "discovered_at": "2026-06-08T11:09:26.608Z",
     "status": "notified",
     "is_new": true
   },
@@ -358,51 +61,7 @@
     "deadline": "11/08/2026",
     "eligibility_criteria": [],
     "source_url": "https://innovationisrael.org.il/kol_kore/preliminary-applied-research-2026/",
-    "discovered_at": "2026-06-08T09:18:37.464Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "365babd7f8ffe2642dacd54d83d4bdf29262f516be610b11529a9c4a0f6def6c",
-    "grant_name": "מסלול פיתוח מוצר – קרן מופ\"ת",
-    "funding_amount": "N/A",
-    "deadline": "20/08/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%9e%d7%95%d7%a6%d7%a8-%d7%a7%d7%a8%d7%9f-%d7%9e%d7%95%d7%a4%d7%aa/",
-    "discovered_at": "2026-06-08T09:18:37.464Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "95f855156b6a89ca4f2bb4abe3221a7f48a69c3a8a527aa745e58b98fd26bef1",
-    "grant_name": "מסלול היתכנות טכנו-כלכלית – קרן מופ\"ת",
-    "funding_amount": "N/A",
-    "deadline": "20/08/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/manufacturing-rnd-mofet-fund-financial-feasability/",
-    "discovered_at": "2026-06-08T09:18:37.464Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "04795743b70f841544c0d45a890b1d7baae70472df989404976f741479aec1fc",
-    "grant_name": "קול קורא להעברת ומסחור ידע ממכון מחקר זרמסלול מחקר יישומי בתעשייה - קרן המחקר היישומי",
-    "funding_amount": "N/A",
-    "deadline": "24/08/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/knowledge-transfer-foreign-institutes/",
-    "discovered_at": "2026-06-08T09:18:37.465Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "848154cf930b3dfc437c8283d1f376984b972b4a9491dcc7f64837c11bea1967",
-    "grant_name": "קול קורא לקרן מופ\"ת – מסלול מעבר מפיתוח לייצורמסלול מעבר מפיתוח לייצור-קרן מופ\"ת",
-    "funding_amount": "N/A",
-    "deadline": "06/09/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/rnd-to-manufacturing-2026/",
-    "discovered_at": "2026-06-08T09:18:37.465Z",
+    "discovered_at": "2026-06-08T11:09:26.608Z",
     "status": "notified",
     "is_new": true
   },
@@ -413,18 +72,7 @@
     "deadline": "09/09/2026",
     "eligibility_criteria": [],
     "source_url": "https://innovationisrael.org.il/kol_kore/bard-rnd-food-nutrition-2026/",
-    "discovered_at": "2026-06-08T09:18:37.465Z",
-    "status": "notified",
-    "is_new": true
-  },
-  {
-    "id": "61a5adc199ac29858c592d4c8e0b9922912e4a87eb51ecdc3d1a3005f38d598c",
-    "grant_name": "קול קורא לבחירת זכיינים להפעלת מועדוני אנג’לים",
-    "funding_amount": "N/A",
-    "deadline": "23/09/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/angel-clubs-franchisees/",
-    "discovered_at": "2026-06-08T09:18:37.466Z",
+    "discovered_at": "2026-06-08T11:09:26.608Z",
     "status": "notified",
     "is_new": true
   },
@@ -435,51 +83,189 @@
     "deadline": "08/10/2026",
     "eligibility_criteria": [],
     "source_url": "https://innovationisrael.org.il/kol_kore/eu-prima-research-innovation-partnership-2026/",
-    "discovered_at": "2026-06-08T09:18:37.466Z",
+    "discovered_at": "2026-06-08T11:09:26.609Z",
     "status": "notified",
     "is_new": true
   },
   {
-    "id": "03162e21e5bde5e251c757f68b2db5c69f930d20758c835c84f3b376deefe814",
-    "grant_name": "מסלול היתכנות של קרן קוריאה-ישראל",
-    "funding_amount": "N/A",
-    "deadline": "31/12/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/programs/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%94%d7%99%d7%aa%d7%9b%d7%a0%d7%95%d7%aa-%d7%a9%d7%9c-%d7%a7%d7%a8%d7%9f-%d7%a7%d7%95%d7%a8%d7%99%d7%90%d7%94-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/",
-    "discovered_at": "2026-06-08T09:18:37.466Z",
+    "id": "f75dafff5bd091b5129a395b3068091627424996937e4eb285b5afdf94bf5268",
+    "grant_name": "[Private Company] Low-temperature technologies for ultra-high-purity chemical recycling",
+    "funding_amount": "Sponsored research, Co-development",
+    "deadline": "25/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/ultra-high-purity-chemical-recycling",
+    "discovered_at": "2026-06-08T11:19:51.331Z",
     "status": "notified",
     "is_new": true
   },
   {
-    "id": "53adfe58491292007ed8dd61b4b633b36f9ee927a72ef2d718e563284d217906",
-    "grant_name": "התארגנות להקמת מאגד \"אנטנה קוונטית\" למו\"פ של תשתית פורצת דרך לחישה של אותות אלקטרומגנטיים בטכנולוגיות...",
-    "funding_amount": "N/A",
-    "deadline": "04/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/quantum-antena/",
-    "discovered_at": "2026-06-08T09:18:37.467Z",
+    "id": "74e2d869fb65d38716483fc3f9fe4f1548088982da3178196253e3dd89198390",
+    "grant_name": "[Procter & Gamble] Novel oral care solutions for interdental cleaning",
+    "funding_amount": "Sponsored research",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/novel-oral-care-cleaning-agents",
+    "discovered_at": "2026-06-08T11:19:51.331Z",
     "status": "notified",
     "is_new": true
   },
   {
-    "id": "cbd8600c1d3cb51ca191656acf0d65636fcfad1720073b55d5f7e715e502730f",
-    "grant_name": "קול קורא למסלול האסטרטגי של קרן הודו-ישראל (I4F) בתחום התחבורה החכמה מסלול שת\"פ בינלאומי – קרן המו\"פ",
-    "funding_amount": "N/A",
-    "deadline": "01/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/indiea-israel-strategic-i4f-2026/",
-    "discovered_at": "2026-06-08T09:18:37.467Z",
+    "id": "4d5263663fe1b15af51c6a89a67b37d9b60c9e029408d3a8f6df0789c93e9b5b",
+    "grant_name": "[Procter & Gamble] Delivery technologies and actives for gum health and oral care",
+    "funding_amount": "Sponsored research",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/gum-health-solutions",
+    "discovered_at": "2026-06-08T11:19:51.331Z",
     "status": "notified",
     "is_new": true
   },
   {
-    "id": "547f08c3a206b49ca5dd0bcbab0dbe309aa6edc34ef00e45d38b0d4aa7cc90a6",
-    "grant_name": "קול קורא לשיתוף פעולה במו\"פ ופיילוטים של קרן ישראל-הודו (קרן I4F)מסלול שת\"פ בינלאומי-קרן המו\"פ",
-    "funding_amount": "N/A",
-    "deadline": "01/06/2026",
-    "eligibility_criteria": [],
-    "source_url": "https://innovationisrael.org.il/kol_kore/india-israel-poc-rd-pilots/",
-    "discovered_at": "2026-06-08T09:18:37.467Z",
+    "id": "589bd68eafbab66cb72601a25d0d37d8055e5772e09eae921631f361176f6514",
+    "grant_name": "[Private Company] Targeted nerve pain relief",
+    "funding_amount": "Sponsored research, Co-development",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/nerve-pain-relief",
+    "discovered_at": "2026-06-08T11:19:51.331Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "1ab9ccd71b86d4311130a457f588210e5265334edda354d62b31a2d2bf86f175",
+    "grant_name": "[Private Company] Powerful sleep benefits without next-day grogginess",
+    "funding_amount": "Sponsored research, Co-development",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/powerful-sleep-benefits",
+    "discovered_at": "2026-06-08T11:19:51.332Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "7b96ec4b3b6abfaaef964091cab191b5786c386df6739c47b307639a8a6cee0d",
+    "grant_name": "[Private Company] Controlling viscosity and gelation in psyllium fiber drinks",
+    "funding_amount": "Sponsored research",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/delaying-or-reducing-gel-formation-in-psyllium-fiber-drinks",
+    "discovered_at": "2026-06-08T11:19:51.332Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "82267dbb01bea8bbd9440b5a9ff5f6ee4fea6086fbdc08b1fc20aece7b7ea959",
+    "grant_name": "[Private Company] Formulations and controlled release systems for volatile compounds",
+    "funding_amount": "Co-development",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/stronger-longer-lasting-scents",
+    "discovered_at": "2026-06-08T11:19:51.332Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "fce048fef235c733cf618ae60eec7280221f73959777dc8c5072c66f8b9038e8",
+    "grant_name": "[Private Company] Device modalities for hair and scalp longevity",
+    "funding_amount": "Sponsored research, Co-development",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/devices-for-hair-and-scalp-longevity",
+    "discovered_at": "2026-06-08T11:19:51.332Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "977337050db10f0426cbed6e6823197a4c316fa5c60fc295ba897abe0d74b45a",
+    "grant_name": "[Private Company] Innovative moisture retention and frizz control technologies",
+    "funding_amount": "Sponsored research, Co-development",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/moisture-retention-and-frizz-control",
+    "discovered_at": "2026-06-08T11:19:51.332Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "004b8fb4d957bff2dbdf264f3be1fd61d913e8826a920cf673de55339d29e092",
+    "grant_name": "[Private Company] Devices for textured hair styling and care",
+    "funding_amount": "Sponsored research, Co-development",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/devices-for-textured-hair-styling-and-care",
+    "discovered_at": "2026-06-08T11:19:51.333Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "f9e366c9fde202b7abd6b76d351a392820fc7a8e903dbc7d10527301c64251a1",
+    "grant_name": "[Private Company] Hair shape transformation with improved hair integrity",
+    "funding_amount": "Sponsored research, Co-development",
+    "deadline": "11/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/hair-shape-transformation",
+    "discovered_at": "2026-06-08T11:19:51.333Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "57a26f7e68a70cf30b0cd6c4a3c0adebdbc1c482cbc65c37855111cc18e54840",
+    "grant_name": "[Haleon] Oral microbiome modulation for improved gum health",
+    "funding_amount": "Sponsored research, Co-development",
+    "deadline": "07/07/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/oral-microbiome-modulation-for-gum-health",
+    "discovered_at": "2026-06-08T11:19:51.333Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "a53453347c92addeaa531002a528bb24362e4f005625b9dc0fad79b3c1557045",
+    "grant_name": "[Cargill] Enhancing material recovery and water efficiency in industrial processes",
+    "funding_amount": "Co-development",
+    "deadline": "27/06/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/enhancing-starch-recovery-and-water-efficiency",
+    "discovered_at": "2026-06-08T11:19:51.333Z",
+    "status": "notified",
+    "is_new": true
+  },
+  {
+    "id": "65b752a67f636a546442f9b30345f89566d4efd1777fea1c9228ba7b02c52fbf",
+    "grant_name": "[Procter & Gamble] Non-bleach whitening technologies for safe daily use",
+    "funding_amount": "Sponsored research",
+    "deadline": "27/06/2026",
+    "eligibility_criteria": [
+      "Academic researchers"
+    ],
+    "source_url": "https://www.halo.science/request_for_solutions/non-bleach-whiteners-oral-care",
+    "discovered_at": "2026-06-08T11:19:51.333Z",
     "status": "notified",
     "is_new": true
   }

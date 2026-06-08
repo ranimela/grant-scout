@@ -1,19 +1,36 @@
 import { loadState, saveState, isNew } from './storage.js';
 import { InnovationAuthorityScraper } from './scrapers/ii_scraper.js';
+import { HaloScraper } from './scrapers/halo_scraper.js';
 import { generateDailyReport } from './notifier.js';
 
 async function runScout() {
     console.log("🚀 Starting daily grant scout...");
 
-    // 1. Initialize the Scraper Engine
-    const scraper = new InnovationAuthorityScraper();
+    // 1. Initialize the Scraper Engines
+    const iiScraper = new InnovationAuthorityScraper();
+    const haloScraper = new HaloScraper();
 
-    // 2. Fetch raw opportunities from the portal
+    // 2. Fetch raw opportunities from the portals
     console.log("📡 Fetching data from Israel Innovation Authority...");
-    const rawGrants = await scraper.scrape();
+    let iiGrants = [];
+    try {
+        iiGrants = await iiScraper.scrape();
+    } catch (err) {
+        console.error("❌ Failed to scrape Israel Innovation Authority:", err.stack || err.message);
+    }
 
-    if (!rawGrants || rawGrants.length === 0) {
-        console.log("⚠️ No grants retrieved. Target might be empty or blocking requests.");
+    console.log("📡 Fetching data from Halo Science...");
+    let haloGrants = [];
+    try {
+        haloGrants = await haloScraper.scrape();
+    } catch (err) {
+        console.error("❌ Failed to scrape Halo Science:", err.stack || err.message);
+    }
+
+    const rawGrants = [...iiGrants, ...haloGrants];
+
+    if (rawGrants.length === 0) {
+        console.log("⚠️ No grants retrieved. Targets might be empty or blocking requests.");
         return;
     }
 
